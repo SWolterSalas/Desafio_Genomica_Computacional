@@ -1,0 +1,21 @@
+Muestra;Latitud;Longitud;Tipo de muestra;Locación;Tipo de lugar;Lugar de muestra;Material del lugar;Porcentaje de reads mapeado (%);Profundidad;Porcentaje de genoma cubierto;Bases totales mapeadas;Linaje;Probabilidad de asignacion (Pangolin);Clado GISAID
+BC-0345795864;-70,596357;-33,519992;Experiment;Metro Vicuña Mackenna (Comuna La Florida);Subway station;Escalator handrail;Rubber;0.0025;6.79;89.85;26839;B.1;91%;GH
+BC-0345795896;-70,605274;-33,45422;Experiment;PD335-Parada 1 / (M) Ñuñoa (Comuna Ñuñoa);Bus stop;Seat;Metal;0.0009;3.35;64.20;19171;B.1;91%;GH
+BC-0345797312;-70,574858;-33,609553;Experiment;Farmacia solidaria Plaza de Puente Alto (Comuna Puente Alto);Drugstore entrance;Handrail;Metal;0.0014;4.64;81.77;24416;B.1;36%;GH
+BC-0345797317;-70,599903;-33,454621;Experiment;Walmart (Comuna Ñuñoa);Supermarket Entrance;Handrail;Metal;0.0015;5.26;81.69;24399;B.1;50%;GH
+BC-0345797602;-70,600321;-33,453816;Experiment;Walmart (Comuna Ñuñoa);Supermarket Entrance;Handrail;Metal;0.0027;9.06;95.59;28548;B.1;91%;GH
+BC-0345797632;-70,576011;-33,609571;Experiment;PF176-Parada 3 / (M) Plaza De Puente Alto (Comuna Puente Alto);Bus stop;Horizontal pole;Metal;0.0128;39.34;99.82;29818;B.1;50%;GH
+BC-0345797636;-70,605283;-33,454282;Experiment;PD335-Parada 1 / (M) Ñuñoa (Comuna Ñuñoa);Bus stop;Horizontal pole;Metal;0.0043;13.79;99.94;29555;B.1;91%;Otra
+BC-0345797641;-70,600478;-33,453698;Experiment;Walmart (Comuna Ñuñoa);Supermarket Entrance;Handrail;Painted metal;0.0144;45.01;99.93;29852;B.1;91%;Otra
+BC-0345797645;-70,611026;-33,455575;Negative Control;Home;Home;Control;;1.1467;2660.99*;99.94;29853;B.1;36%;GH
+BC-0345797686;-70,605274;-33,454246;Experiment;PD335-Parada 1 / (M) Ñuñoa (Comuna Ñuñoa);Bus stop;Seat;Metal;0.0011;4.27;80.25;23972;B.1;91%;GH
+BC-0345797802;-70,605235;-33,453967;Experiment;Santander Bank (Comuna Ñuñoa);Bank;ATM;Metal;0.3427;703.90*;99.96;29858;B.1;36%;GH
+BC-0345797815;-70,599384;-33,519687;Experiment;Metro Bellavista de la Florida (Comuna La Florida);Subway station;ATM;Metal;0.0191;50.36*;99.87;29833;B.1;91%;GH
+BC-0345797817;-70,599382;-33,51968;Experiment;Metro Bellavista de la Florida (Comuna La Florida);Subway station;ATM;Metal;0.0309;90.21*;99.94;29854;B.1;91%;GH
+BC-0345797839;-70,596369;-33,519945;Experiment;Metro Vicuña Mackenna (Comuna La Florida);Subway station;Escalator handrail;Rubber;0.0132;41.20;99.93;29851;B.1;91%;GH
+BC-0345798087;-70,599307;-33,519671;Experiment;Metro Bellavista de la Florida (Comuna La Florida);Subway station;ATM;Metal;0.0094;22.20;99.68;29775;B.1;91%;Otra
+BC-0345798943;-70,597028;-33,522319;Experiment;PE1262-Parada 5 / (M) Bellavista De La Florida (Comuna La Florida);Bus stop;Information board;Metal;0.0056;16.71;98.31;29366;B.1;91%;Otra
+BC-0345799013;-70,574456;-33,609106;Experiment;PF512-Parada 2 / (M) Plaza De Puente Alto (Comuna Puente Alto);Bus stop;Horizontal pole;Metal;0.0174;53.47*;99.96;29860;B.1;91%;GH
+BC-0361053718;-70,598901;-33,473652;Experiment;PD64-Parada 1 / Colegio San Marcos (Comuna Macul);Bus stop;Pole;Metal;0.0180;49.55;99.82;29814;B.1;91%;GH
+BC-0361053744;-70,607111;-33,454259;Experiment;Medical Center (Comuna Ñuñoa);Practitioner office;Door handle;Metal;0.0625;181.37*;99.96;29859;B.1;91%;GH
+BC-0361057091;-70,607105;-33,454425;Experiment;Medical Center (Comuna Ñuñoa);Practitioner office;Door handle;Metal;0.0630;179.44*;99.42;29697;B.1;91%;GH
